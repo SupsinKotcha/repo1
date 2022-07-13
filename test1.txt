@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 6FBD-E150
-
- Directory of C:\Users\Admin\OneDrive\Desktop\DrugData
-
-07/13/2022  12:23 AM    <DIR>          .
-07/13/2022  12:23 AM    <DIR>          ..
-07/13/2022  12:23 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  15,343,173,632 bytes free
+change 1
